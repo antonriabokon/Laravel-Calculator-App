@@ -1,2 +1,2 @@
 # Laravel Calculator
-Simple laravel calculator application
+Very simple laravel calculator application which allows you to enter two values and chose your operator then displays the answer.
